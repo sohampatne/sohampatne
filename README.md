@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Soham Patne
 - 👀 I’m interested in Making websites with html and google sites, along with dart coding in flutter
 - 🌱 I’m currently learning python language and database
-- 💞️ I’m looking to collaborate on ...
 - 📫 Gmail address - patne.soham@gmail.com
 
 <!---
