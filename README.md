@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Soham Patne
-- 👀 I’m interested in making websites with HTML, (frameworks like) Bootstrap, CSS and JS, along with coding with Dart in Flutter. I also know the basics of Python.
-- 🌱 I’m currently learning React JS, Java and DBMS basics.
+- 👋 Hi, I’m Soham Patne.
+- 👀 Interested in making websites using HTML, Bootstrap, CSS & JS; making mobile and web apps with Dart in Flutter; and basic problem-solving in Python.
+- 🌱 Currently learning Data structures (detailed) {as of April 2024}
 
 <!---
 sohampatne/sohampatne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
